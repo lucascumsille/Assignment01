@@ -1,0 +1,51 @@
+body {
+    color: rgb(190, 204, 211);
+    max-width: 800px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    background: url('photos/star.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    padding-left: 15px;
+    line-height: 2;   
+    
+}
+
+th {
+    font-family: 'Kaushan Script';
+    font-size: 20px ;
+}
+
+th, td {
+    padding: 15px;
+    border: 3px solid rgb(190, 204, 211);
+    text-align: left;
+  }
+
+table {
+    border-collapse: collapse;
+  }
+
+td, p {
+    font-size: 17px;
+}
+
+h1,h2,h3 {
+    font-family: 'Kaushan Script';
+    text-shadow:2px 2px black; 
+    color: rgba(248, 120, 0, 0.89);  
+}
+
+h1{
+    font-size: 55px;
+
+    
+h2 {
+    font-size: 45px;
+}
+h3 {
+    font-size: 30px;
+}
+/* is there a way to change the font-size of all headlines simultaneously 
+proportionally to their original sizes */
+
